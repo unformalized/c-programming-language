@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bytedance/CLionProjects/cPL/char_count.h
+stdio.h
+-
+
+/Users/bytedance/CLionProjects/cPL/fahr_celsius_print.h
+stdio.h
+-
+
+/Users/bytedance/CLionProjects/cPL/main.c
+stdio.h
+-
+char_count.h
+/Users/bytedance/CLionProjects/cPL/char_count.h
+fahr_celsius_print.h
+/Users/bytedance/CLionProjects/cPL/fahr_celsius_print.h
+point-and-array.h
+/Users/bytedance/CLionProjects/cPL/point-and-array.h
+
+/Users/bytedance/CLionProjects/cPL/point-and-array.h
+stdio.h
+-
+

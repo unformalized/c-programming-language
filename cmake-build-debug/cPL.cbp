@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cPL"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/bytedance/CLionProjects/cPL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/bytedance/CLionProjects/cPL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/bytedance/CLionProjects/cPL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cPL">
+				<Option output="/Users/bytedance/CLionProjects/cPL/cmake-build-debug/cPL" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bytedance/CLionProjects/cPL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 cPL"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cPL/fast">
+				<Option output="/Users/bytedance/CLionProjects/cPL/cmake-build-debug/cPL" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bytedance/CLionProjects/cPL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 cPL/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/all_count_by_arr.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/buf_stack.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/char_count.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/copy_file.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/fahr_celsius_print.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/lib.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/macro.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/main.c">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/next_val_or_op.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/op_stack.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/point-and-array.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/print_longest_line.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/quick_sort.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/rpn.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/string_pattern.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/swap.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/type_transformer.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/types.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/word_count.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
