@@ -78,6 +78,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/address_arithmetic.h">
+			<Option target="cPL"/>
+		</Unit>
 		<Unit filename="/Users/bytedance/CLionProjects/cPL/all_count_by_arr.h">
 			<Option target="cPL"/>
 		</Unit>
@@ -102,6 +105,9 @@
 		<Unit filename="/Users/bytedance/CLionProjects/cPL/main.c">
 			<Option target="cPL"/>
 		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/multi_dimension_array.h">
+			<Option target="cPL"/>
+		</Unit>
 		<Unit filename="/Users/bytedance/CLionProjects/cPL/next_val_or_op.h">
 			<Option target="cPL"/>
 		</Unit>
@@ -109,6 +115,12 @@
 			<Option target="cPL"/>
 		</Unit>
 		<Unit filename="/Users/bytedance/CLionProjects/cPL/point-and-array.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/pointer_array.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/pointer_to_function.h">
 			<Option target="cPL"/>
 		</Unit>
 		<Unit filename="/Users/bytedance/CLionProjects/cPL/print_longest_line.h">
@@ -120,7 +132,16 @@
 		<Unit filename="/Users/bytedance/CLionProjects/cPL/rpn.h">
 			<Option target="cPL"/>
 		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/searchTable.h">
+			<Option target="cPL"/>
+		</Unit>
 		<Unit filename="/Users/bytedance/CLionProjects/cPL/string_pattern.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/string_pointer_and_fn.h">
+			<Option target="cPL"/>
+		</Unit>
+		<Unit filename="/Users/bytedance/CLionProjects/cPL/struct.h">
 			<Option target="cPL"/>
 		</Unit>
 		<Unit filename="/Users/bytedance/CLionProjects/cPL/swap.h">

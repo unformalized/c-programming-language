@@ -5,4 +5,5 @@ CMakeFiles/cPL.dir/main.c.o: ../char_count.h
 CMakeFiles/cPL.dir/main.c.o: ../fahr_celsius_print.h
 CMakeFiles/cPL.dir/main.c.o: ../main.c
 CMakeFiles/cPL.dir/main.c.o: ../point-and-array.h
+CMakeFiles/cPL.dir/main.c.o: ../struct.h
 

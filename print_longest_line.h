@@ -12,7 +12,7 @@ char longest[MAX_LINE];
 
 
 int get_line(char s[], int limit);
-void copy(char to[], char from[]);
+void copy(char to[], const char from[]);
 
 #ifndef CPL_PRINT_LONGEST_LINE_H
 #define CPL_PRINT_LONGEST_LINE_H
@@ -52,7 +52,7 @@ int get_line(char s[], int limit)
 }
 
 /* copy 函数：将 from 复制到 to ; */
-void copy(char to[], char from[])
+void copy(char to[], const char from[])
 {
     int i;
     i = 0;

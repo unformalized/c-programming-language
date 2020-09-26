@@ -23,8 +23,14 @@ fahr_celsius_print.h
 /Users/bytedance/CLionProjects/cPL/fahr_celsius_print.h
 point-and-array.h
 /Users/bytedance/CLionProjects/cPL/point-and-array.h
+struct.h
+/Users/bytedance/CLionProjects/cPL/struct.h
 
 /Users/bytedance/CLionProjects/cPL/point-and-array.h
+stdio.h
+-
+
+/Users/bytedance/CLionProjects/cPL/struct.h
 stdio.h
 -
 
