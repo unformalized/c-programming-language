@@ -8,155 +8,153 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/bytedance/CLionProjects/cPL/cmake-build-debug"/>
+				<Option working_dir="/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="/Users/bytedance/CLionProjects/cPL/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/bytedance/CLionProjects/cPL/cmake-build-debug"/>
+				<Option working_dir="/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cPL">
-				<Option output="/Users/bytedance/CLionProjects/cPL/cmake-build-debug/cPL" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bytedance/CLionProjects/cPL/cmake-build-debug"/>
+				<Option output="/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/cPL" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 cPL"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 cPL"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cPL/fast">
-				<Option output="/Users/bytedance/CLionProjects/cPL/cmake-build-debug/cPL" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bytedance/CLionProjects/cPL/cmake-build-debug"/>
+				<Option output="/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/cPL" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 cPL/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bytedance/CLionProjects/cPL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 cPL/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/address_arithmetic.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/address_arithmetic.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/all_count_by_arr.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/all_count_by_arr.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/buf_stack.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/buf_stack.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/char_count.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/char_count.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/copy_file.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/copy_file.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/fahr_celsius_print.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/fahr_celsius_print.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/lib.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/lib.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/macro.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/macro.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/main.c">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/main.c">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/multi_dimension_array.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/multi_dimension_array.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/next_val_or_op.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/next_val_or_op.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/op_stack.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/op_stack.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/point-and-array.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/point-and-array.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/pointer_array.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/pointer_array.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/pointer_to_function.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/pointer_to_function.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/print_longest_line.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/print_longest_line.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/quick_sort.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/quick_sort.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/rpn.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/rpn.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/searchTable.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/searchTable.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/string_pattern.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/string_pattern.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/string_pointer_and_fn.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/string_pointer_and_fn.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/struct.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/struct.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/swap.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/swap.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/type_transformer.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/type_transformer.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/types.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/types.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/word_count.h">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/word_count.h">
 			<Option target="cPL"/>
 		</Unit>
-		<Unit filename="/Users/bytedance/CLionProjects/cPL/CMakeLists.txt">
+		<Unit filename="/home/bestmasterliubin/dev/c/c-programming-language/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

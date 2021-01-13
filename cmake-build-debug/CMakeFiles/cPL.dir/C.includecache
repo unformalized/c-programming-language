@@ -6,31 +6,43 @@
 
 #IncludeRegexTransform: 
 
-/Users/bytedance/CLionProjects/cPL/char_count.h
+/home/bestmasterliubin/dev/c/c-programming-language/buf_stack.h
 stdio.h
 -
 
-/Users/bytedance/CLionProjects/cPL/fahr_celsius_print.h
+/home/bestmasterliubin/dev/c/c-programming-language/char_count.h
 stdio.h
 -
 
-/Users/bytedance/CLionProjects/cPL/main.c
+/home/bestmasterliubin/dev/c/c-programming-language/fahr_celsius_print.h
+stdio.h
+-
+
+/home/bestmasterliubin/dev/c/c-programming-language/main.c
 stdio.h
 -
 char_count.h
-/Users/bytedance/CLionProjects/cPL/char_count.h
+/home/bestmasterliubin/dev/c/c-programming-language/char_count.h
 fahr_celsius_print.h
-/Users/bytedance/CLionProjects/cPL/fahr_celsius_print.h
+/home/bestmasterliubin/dev/c/c-programming-language/fahr_celsius_print.h
 point-and-array.h
-/Users/bytedance/CLionProjects/cPL/point-and-array.h
+/home/bestmasterliubin/dev/c/c-programming-language/point-and-array.h
 struct.h
-/Users/bytedance/CLionProjects/cPL/struct.h
+/home/bestmasterliubin/dev/c/c-programming-language/struct.h
 
-/Users/bytedance/CLionProjects/cPL/point-and-array.h
+/home/bestmasterliubin/dev/c/c-programming-language/point-and-array.h
 stdio.h
 -
 
-/Users/bytedance/CLionProjects/cPL/struct.h
+/home/bestmasterliubin/dev/c/c-programming-language/struct.h
 stdio.h
 -
+ctype.h
+-
+string.h
+-
+stdlib.h
+-
+buf_stack.h
+/home/bestmasterliubin/dev/c/c-programming-language/buf_stack.h
 

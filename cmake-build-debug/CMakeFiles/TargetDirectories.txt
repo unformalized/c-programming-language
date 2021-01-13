@@ -1,3 +1,3 @@
-/Users/bytedance/CLionProjects/cPL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/bytedance/CLionProjects/cPL/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/bytedance/CLionProjects/cPL/cmake-build-debug/CMakeFiles/cPL.dir
+/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bestmasterliubin/dev/c/c-programming-language/cmake-build-debug/CMakeFiles/cPL.dir
